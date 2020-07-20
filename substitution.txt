@@ -1,0 +1,15 @@
+
+
+        Accept command line argument - 26 different letters only, case insensitive
+        iterate over the command line argument to check: 26 letters only, no other arguments, no fewer/more letters, no non-alphabetic characters
+        get string plaintext from user
+        encipher the string using key provided - iterate over each letter and match with corresponding letter in key
+        output ciphertext
+        return 0
+
+
+
+
+
+
+        enciphering string - check if alphabetic char - if so, change | if not, leave it as it is
